@@ -1,0 +1,8 @@
+E:\NASIR\11052015\AcountOperationApp\AcountOperationApp\bin\Debug\AcountOperationApp.exe.config
+E:\NASIR\11052015\AcountOperationApp\AcountOperationApp\bin\Debug\AcountOperationApp.exe
+E:\NASIR\11052015\AcountOperationApp\AcountOperationApp\bin\Debug\AcountOperationApp.pdb
+E:\NASIR\11052015\AcountOperationApp\AcountOperationApp\obj\Debug\AcountOperationApp.accountOperationUI.resources
+E:\NASIR\11052015\AcountOperationApp\AcountOperationApp\obj\Debug\AcountOperationApp.Properties.Resources.resources
+E:\NASIR\11052015\AcountOperationApp\AcountOperationApp\obj\Debug\AcountOperationApp.csproj.GenerateResource.Cache
+E:\NASIR\11052015\AcountOperationApp\AcountOperationApp\obj\Debug\AcountOperationApp.exe
+E:\NASIR\11052015\AcountOperationApp\AcountOperationApp\obj\Debug\AcountOperationApp.pdb
